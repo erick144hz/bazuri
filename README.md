@@ -54,4 +54,4 @@ Este programa foi desenvolvido com a intenção de ajudar os usuários a protege
 
 #                                Prévia 
 
-![Optimizer Image](https://github.com/erick144hz/optimizer.bat/blob/main/optimizer.png?raw=true)# bazuri
+![Optimizer Image](https://github.com/erick144hz/bazuri/blob/main/bazuri.png?raw=true)
